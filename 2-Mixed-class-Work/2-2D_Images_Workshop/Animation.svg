@@ -3,7 +3,7 @@
   <rect width="400" height="75" x="0" y="0" fill="blue" />
   <rect width="400" height="25" x="0" y="75" fill="green" />
 
-  <circle cx="10" cy="75" r="5" fill="red" >
+  <circle cx="10" cy="10" r="5" fill="red" >
     <!-- 
     The path attribute defines the path of the animation
     The begin attribute defines when the animation should start
