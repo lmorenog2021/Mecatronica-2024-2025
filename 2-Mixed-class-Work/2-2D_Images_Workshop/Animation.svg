@@ -1,19 +1,17 @@
 <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    
+  <rect width="400" height="75" x="0" y="0" fill="blue" />
+  <rect width="400" height="25" x="0" y="75" fill="green" />
 
-  <!-- * Animar un circulo: Circulo en movimiento en horizontal
-      Hacia la derecha 
-  -->
   <circle cx="10" cy="75" r="5" fill="red" >
-
     <!-- 
-      * Atributo a animar: Coordenada x
-      * Animar desde el principio: begin="0s"
-      * Duracion de la animacion: dur="2s" (2 segundos)
-      * cx varia desde 50 a 200
-      * Repetir indefinidamente 
+    The path attribute defines the path of the animation
+    The begin attribute defines when the animation should start
+    The dur attribute defines the duration of the animation
+    The repeatCount attribute defines how many times the animation should play
     -->
      <animateMotion
-      path="M0,0 q60,100 100,0 q60,-20 100,0"
+      path="10,10 50,75 100,20 150,75 200,30 250,75 300,40 350,75 400,50"
       begin="0s"
       dur="10s"
       repeatCount="indefinite" />
