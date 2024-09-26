@@ -17,7 +17,7 @@
       begin="0s"
       dur="4s"
       from="10"
-      to="400"
+      to="200"
       repeatCount="indefinite" />
     <animate
       attributeName="cy"
