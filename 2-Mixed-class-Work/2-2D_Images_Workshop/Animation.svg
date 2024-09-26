@@ -11,7 +11,7 @@
     The repeatCount attribute defines how many times the animation should play
     -->
      <animateMotion
-      path="10,10 50,75 100,20 150,75 200,30 250,75 300,40 350,75 400,50"
+      path="M10,10 L50,75 L100,20 L150,75 L200,30 L250,75 L300,40 L350,75 L400,50"
       begin="0s"
       dur="10s"
       repeatCount="indefinite" />
