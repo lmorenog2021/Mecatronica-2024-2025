@@ -23,6 +23,13 @@
       attributeName="cy"
       begin="0s"
       dur="2s"
+      from="0"
+      to="75"
+      repeatCount="indefinite" />
+    <animate
+      attributeName="cy"
+      begin="2s"
+      dur="4s"
       from="75"
       to="0"
       repeatCount="indefinite" />
