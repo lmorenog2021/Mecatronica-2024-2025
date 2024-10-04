@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="400mm"
+   viewBox="0 0 400 400"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="TechnicalDrawing.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.47902487"
+     inkscape:cx="741.08887"
+     inkscape:cy="700.38117"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect16"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CentripetalCatmullRom"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       end_linecap_type="zerowidth"
+       offset_points=""
+       linejoin_type="round"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true"
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect15"
+       is_visible="true"
+       lpeversion="1.3"
+       scale_width="1"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       end_linecap_type="zerowidth"
+       offset_points="2,4.9921383"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       not_jump="false"
+       sort_points="true"
+       message="&lt;b&gt;Ctrl + click&lt;/b&gt; on existing node and move it" />
+    <marker
+       style="overflow:visible"
+       id="marker14"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path14" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Empty Canvas"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9632px;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:4.36694px;word-spacing:1.84659px;opacity:1;fill:none;fill-opacity:1;stroke:#090000;stroke-width:1.85208;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="44.571362"
+       y="212.93216"
+       id="text6"
+       transform="scale(1.0898286,0.91757548)"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="letter-spacing:4.36693px;word-spacing:1.84659px;stroke-width:1.85208;stroke-dasharray:none"
+         x="44.571362"
+         y="212.93216">Alzado</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9632px;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:4.36694px;word-spacing:1.84659px;fill:none;fill-opacity:1;stroke:#090000;stroke-width:1.85208;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="240.99655"
+       y="213.63322"
+       id="text6-8"
+       transform="scale(1.0898286,0.91757548)"><tspan
+         sodipodi:role="line"
+         id="tspan6-2"
+         style="letter-spacing:4.36693px;word-spacing:1.84659px;stroke-width:1.85208;stroke-dasharray:none"
+         x="240.99655"
+         y="213.63322">Perfil</tspan><tspan
+         sodipodi:role="line"
+         style="letter-spacing:4.36693px;word-spacing:1.84659px;stroke-width:1.85208;stroke-dasharray:none"
+         x="240.99655"
+         y="238.58722"
+         id="tspan8" /></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#090000;stroke-width:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4"
+       width="200"
+       height="200"
+       x="1.5"
+       y="1.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#090000;stroke-width:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4-6"
+       width="200"
+       height="200"
+       x="201.5"
+       y="201.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#090000;stroke-width:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4-61"
+       width="200"
+       height="200"
+       x="1.5"
+       y="201.5" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#090000;stroke-width:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4-2"
+       width="200"
+       height="200"
+       x="201.5"
+       y="1.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9632px;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:4.36694px;word-spacing:1.84659px;fill:none;fill-opacity:1;stroke:#090000;stroke-width:1.85208;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="45.343658"
+       y="432.4137"
+       id="text6-4"
+       transform="scale(1.0898286,0.91757548)"
+       inkscape:transform-center-x="2.1199117"
+       inkscape:transform-center-y="-132.18481"><tspan
+         sodipodi:role="line"
+         style="letter-spacing:4.36693px;word-spacing:1.84659px;stroke-width:1.85208;stroke-dasharray:none"
+         x="45.343658"
+         y="432.4137"
+         id="tspan7">Planta</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#090000;stroke-width:1.85208;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 242.26747,62.972174 -0.7765,16.555934 4.51857,61.024012 109.43869,0.005 4.87214,-61.400116 0.41424,-16.247417 z"
+       id="path12"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Alzado">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#090000;stroke-width:1.85208;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 46.588748,139.50505 11.272469,-0.24716 1.541742,-60.496625 35.880015,-0.237092 10.344336,61.652467 37.02061,-0.23189 9.36896,-61.50286 -0.0102,-15.008157 -105.497599,0.301598 z"
+       id="path11"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#090000;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#DartArrow);marker-end:url(#marker14)"
+       d="m 155.7857,238.18809 -1.73081,124.03437"
+       id="path13"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:#090000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 192.78738,236.21583 Z"
+       id="path16"
+       inkscape:path-effect="#path-effect16"
+       inkscape:original-d="M 192.78738,236.21583 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Perfil">
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#090000;stroke-width:1.81701;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect10"
+       width="118.18298"
+       height="78.182991"
+       x="241.91447"
+       y="62.763004" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Planta">
+    <rect
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#090000;stroke-width:2.17579;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8"
+       width="99.47776"
+       height="133.18661"
+       x="47.076191"
+       y="233.495" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#090000;stroke-width:2.15113;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8-8"
+       width="48.609131"
+       height="133.20981"
+       x="46.583504"
+       y="233.38005" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#090000;stroke-width:1.78058;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8-8-2"
+       width="36.279152"
+       height="122.28902"
+       x="102.27026"
+       y="238.8705" />
+  </g>
+</svg>

@@ -26,4 +26,10 @@ What stuck out to me the most was using layers, as it was something new to me, b
 
 ![layers](Layers.png)
 ### Drawing acording to specs
-### Culmination of everything learned 
+For this proyect I decided to try and model a rough mockup of a part that I was planning on 3D printing. The plan was to make a hooked bucket that would slide onto the edge of a cabinet I have.
+
+![InkscapeSpecs](TechnicalDrawing.svg)
+
+The measurements are missing, as I encountered a bug that crashed the program the moment I tried interacting with a line object
+
+[ADD VIDEO]
