@@ -25,5 +25,18 @@ This is the finished product, printed in glow in the dark filament.
 ![Final Product](5-FinalProduct.png)
 
 ## 2D Extension cable holder
+We then took the design plans made in the 2D image workshop, to make a shelf piece in 3d, and hopefully print it out.
+First we make the side profile and extrude it.
+
+[ADD IMAGE]
+
+Then we make the hole part, and use a boolean substraction on the first model.
+
+[ADD IMAGE]
+
+We can now export to technichal drawing, much better than the one we made in Inkscape.
+
+[ADD IMAGE]
 
 ## Robot parts
+Our last task is to make a simple claw to test moving parts in FreeCAD.
