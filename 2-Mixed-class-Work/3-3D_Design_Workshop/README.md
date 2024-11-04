@@ -18,7 +18,7 @@ Next, in a different plane I made the side profile of the ring, and extruded bot
 
 Lastly I designed a stamp with my initials, created a pad, and removed from the ring the material touching the pad. For the finishing touches I filleted all the edges except the ones in the stamp.
 
-![Unfilleted Files](4-UnfilletedFiles.png)
+![Unfilleted Files](4-UnfilletedRing.png)
 
 This is the finished product, printed in glow in the dark filament.
 
