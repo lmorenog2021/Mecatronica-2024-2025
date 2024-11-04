@@ -5,24 +5,24 @@ While reading the proposed class excercises I got inspired by the ring excercise
 
 I started by finding some references, and I chose this green larntern ring that had a cool outline and could be printed without needing supports.
 
-[ADD IMAGE]
+![Green Larntern](0-Inspiration.png)
 
 The first step was to make a sketch of the ring's shape, by tracing the other ring. This part was were I had to learn a lot about how constraints work, as it was the most complex piece of the project.
 
-[ADD IMAGE]
+![Sketch](1-Sketch.png)
 
 Next, in a different plane I made the side profile of the ring, and extruded both sketches. Then using a bolean operation, deleted everything but the parts where both parts came together.
 
-[ADD IMAGE]
-[ADD IMAGE]
+![First extrusion](2-Extrusion.png)
+![Second extrusion](3-SecondExtrusion.png)
 
 Lastly I designed a stamp with my initials, created a pad, and removed from the ring the material touching the pad. For the finishing touches I filleted all the edges except the ones in the stamp.
 
-[ADD IMAGE]
+![Unfilleted Files](4-UnfilletedFiles.png)
 
 This is the finished product, printed in glow in the dark filament.
 
-[ADD IMAGE]
+![Final Product](5-FinalProduct.png)
 
 ## 2D Extension cable holder
 
