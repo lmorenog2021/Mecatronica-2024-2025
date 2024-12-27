@@ -39,18 +39,19 @@ Our last task is to make a simple claw to test moving parts in FreeCAD. A simple
 
 First I decided to learn a bit by testing one of the preset examples FreeCad gives you, the excavator arm and bucket. With this we can get a feel on how to use the workbench.
 
-[ADD SCREENSHOT OF BUCKET]
+![Free Cad Bucket](8-FreeCadBucket.png)
 
 Next, I decided to get some inspiration for the claw. My idea was to try and recreate a hand for the dreadnought proyect [ADD LINK].
 
-[ADD CROPED IMAGE OF HAND]
+![Dreadnought Claw](9-DreadClaw.png)
 
 My initial idea was to simplify the design by using a single infinite screw to drive the 4 claws. Much like this design found online.
 
-[ADD SCREENSHOT OF COMPLIANT CLAW]
+![Pre Made Claw](10-PreMadeClaw.png)
 
-To speed up the design process we will search if someone has already made pieces that we could use. We find the gears in this repo [ADD LINK]
+Unfortunately, this design has the incorrect number of fingers, and uses a proprietary file system that we can't use. But it proves the idea of the design works, even if we have to make it from scratch.
 
-[ADD SCRENSHOT]
+To speed up this process we will search if someone has already made pieces that we could use. We will try to find the correct gears and parts in this repo [ADD LINK]
 
+![Library Repo](11-LibraryRepo.png)
 
