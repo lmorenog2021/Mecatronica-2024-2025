@@ -37,4 +37,20 @@ This is the finished product, printed in glow in the dark filament.
 ## Robot parts
 Our last task is to make a simple claw to test moving parts in FreeCAD. A simple design will work for this proof of concept.
 
-[ADD IMAGE]
+First I decided to learn a bit by testing one of the preset examples FreeCad gives you, the excavator arm and bucket. With this we can get a feel on how to use the workbench.
+
+[ADD SCREENSHOT OF BUCKET]
+
+Next, I decided to get some inspiration for the claw. My idea was to try and recreate a hand for the dreadnought proyect [ADD LINK].
+
+[ADD CROPED IMAGE OF HAND]
+
+My initial idea was to simplify the design by using a single infinite screw to drive the 4 claws. Much like this design found online.
+
+[ADD SCREENSHOT OF COMPLIANT CLAW]
+
+To speed up the design process we will search if someone has already made pieces that we could use. We find the gears in this repo [ADD LINK]
+
+[ADD SCRENSHOT]
+
+
