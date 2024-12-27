@@ -41,7 +41,7 @@ First I decided to learn a bit by testing one of the preset examples FreeCad giv
 
 ![Free Cad Bucket](8-FreeCadBucket.png)
 
-Next, I decided to get some inspiration for the claw. My idea was to try and recreate a hand for the dreadnought proyect [ADD LINK].
+Next, I decided to get some inspiration for the claw. My idea was to try and recreate a hand for the [dreadnought proyect](https://github.com/forge-world-6798/Mecatronica-Proyecto).
 
 ![Dreadnought Claw](9-DreadClaw.png)
 
@@ -51,7 +51,7 @@ My initial idea was to simplify the design by using a single infinite screw to d
 
 Unfortunately, this design has the incorrect number of fingers, and uses a proprietary file system that we can't use. But it proves the idea of the design works, even if we have to make it from scratch.
 
-To speed up this process we will search if someone has already made pieces that we could use. We will try to find the correct gears and parts in this repo [ADD LINK]
+To speed up this process we will search if someone has already made pieces that we could use. We will try to find the correct gears and parts in this [repo](https://github.com/FreeCAD/FreeCAD-library/tree/master)
 
 ![Library Repo](11-LibraryRepo.png)
 
