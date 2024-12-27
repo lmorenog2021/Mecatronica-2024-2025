@@ -11,18 +11,28 @@ The first step was to make a sketch of the ring's shape, by tracing the other ri
 
 ![Sketch](1-Sketch.png)
 
-Next, in a different plane I made the side profile of the ring, and extruded both sketches. Then using a bolean operation, deleted everything but the parts where both parts came together.
+Then, I made a pad of the design, making sure it was tall enough for the next steps
 
 ![First extrusion](2-Extrusion.png)
+
+Next, in a different plane I made the side profile of the ring, and extruded both sketches.
+
 ![Second extrusion](3-SecondExtrusion.png)
 
-Lastly I designed a stamp with my initials, created a pad, and removed from the ring the material touching the pad. For the finishing touches I filleted all the edges except the ones in the stamp.
+Using a bolean operation,I then deleted everything but the area where both parts came together.
 
 ![Unfilleted Files](4-UnfilletedRing.png)
 
-This is the finished product, printed in glow in the dark filament.
+Lastly I designed a stamp with my initials, created a pad, and removed from the ring the material touching the pad. For the finishing touches I filleted all the edges except the ones in the stamp.
 
 ![Final Product](5-FinalProduct.png)
+
+This is the finished product, printed in glow in the dark filament.
+
+![Ring Normal](6-RingNormal.png)
+![Ring Glowing](7-RingGlowing.png)
+
+
 
 ## Robot parts
 Our last task is to make a simple claw to test moving parts in FreeCAD. A simple design will work for this proof of concept.
